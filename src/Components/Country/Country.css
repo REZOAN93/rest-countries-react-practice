@@ -1,0 +1,18 @@
+.Country-list{
+    border: 1px solid black;
+    background: gainsboro;
+    height:300px;
+    width:700px;
+    margin: 10px;
+    padding: 5px;
+    display: flex;
+}
+.main-button{
+    height: 30px;
+    width:100px;
+    border-radius: 10px;
+    border: 1px solid black;
+    color: blue;
+    weight:600;
+    background:cyan;
+}
